@@ -8,10 +8,6 @@ O projeto consiste em um jogo baseado em HTML, CSS e JavaScript com tema do pers
 - CSS
 - JavaScript
 
-## Como contribuir
-
-Indicações sobre como outras pessoas podem contribuir para o projeto.
-
 ## Creditos
 
 O jogo foi criado seguindo o tutorial do canal Manual do Dev. 

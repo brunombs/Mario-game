@@ -10,7 +10,7 @@ O projeto consiste em um jogo baseado em HTML, CSS e JavaScript com tema do pers
 
 ## Creditos
 
-O jogo foi criado seguindo o tutorial do canal Manual do Dev. 
+O jogo foi criado seguindo um tutorial do canal Manual do Dev. 
 
 Link para o canal: https://www.youtube.com/c/ManualdoDev
 
